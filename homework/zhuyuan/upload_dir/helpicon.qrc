@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>helpicon/userask.png</file>
+        <file>helpicon/undo.png</file>
+        <file>helpicon/textunder.png</file>
+        <file>helpicon/textright.png</file>
+        <file>helpicon/textleft.png</file>
+        <file>helpicon/textjustify.png</file>
+        <file>helpicon/textitalic.png</file>
+        <file>helpicon/textcenter.png</file>
+        <file>helpicon/textbold.png</file>
+        <file>helpicon/screenshot.png</file>
+        <file>helpicon/save.png</file>
+        <file>helpicon/remoterefresh.png</file>
+        <file>helpicon/redo.png</file>
+        <file>helpicon/insterpic.png</file>
+        <file>helpicon/highword.png</file>
+        <file>helpicon/helpinfo.png</file>
+        <file>helpicon/help2.png</file>
+        <file>helpicon/help1.png</file>
+        <file>helpicon/found.png</file>
+        <file>helpicon/fullscreen.png</file>
+        <file>helpicon/forward.png</file>
+        <file>helpicon/backward.png</file>
+        <file>helpicon/zoomout.png</file>
+        <file>helpicon/zoomin.png</file>
+        <file>helpicon/instertab.png</file>
+        <file>helpicon/helpcenter.png</file>
+        <file>helpicon/normal2.png</file>
+        <file>helpicon/normal1.png</file>
+        <file>helpicon/normal.png</file>
+        <file>helpicon/min2.png</file>
+        <file>helpicon/min1.png</file>
+        <file>helpicon/min.png</file>
+        <file>helpicon/max2.png</file>
+        <file>helpicon/max1.png</file>
+        <file>helpicon/max.png</file>
+        <file>helpicon/close2.png</file>
+        <file>helpicon/close1.png</file>
+        <file>helpicon/close.png</file>
+    </qresource>
+</RCC>

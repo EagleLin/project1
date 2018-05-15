@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/updatewindow.png</file>
+        <file>image/modulebanner.png</file>
+        <file>image/warty-final-ubuntu.png</file>
+    </qresource>
+</RCC>
